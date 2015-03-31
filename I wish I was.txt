@@ -11,3 +11,5 @@ What if we just built it from here?
 That's possible.  We'd need a pull server to provision this to a web server to check progress.
 
 Ah, that's the rub.  Where to go to check on progress.  
+
+My cat keeps trying to sneak past me on the porch to climb the stairs and explore. 
