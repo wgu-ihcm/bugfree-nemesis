@@ -12,6 +12,15 @@ That's possible.  We'd need a pull server to provision this to a web server to c
 
 Ah, that's the rub.  Where to go to check on progress.  
 
+<<<<<<< HEAD
 I wonder if this will actually work now?
 
 
+=======
+<<<<<<< HEAD
+Making a change now to see what happens if I collide
+
+
+My cat keeps trying to sneak past me on the porch to climb the stairs and explore. 
+>>>>>>> origin/master
+>>>>>>> origin/master
