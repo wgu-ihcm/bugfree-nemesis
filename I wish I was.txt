@@ -2,3 +2,12 @@ I wish I was a duck; then I could quack on demand.
 And nobody would stare wondering why I quacked,
 because hey, that's what ducks do.
 
+Hmm.  What if I used the web editor for this?
+
+That's potentially powerful.  Would I even need to clone this to my local computer?
+
+What if we just built it from here?
+
+That's possible.  We'd need a pull server to provision this to a web server to check progress.
+
+Ah, that's the rub.  Where to go to check on progress.  
